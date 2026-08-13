@@ -1,0 +1,375 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dingo API",
+          "description": "A RESTful API package for the Laravel and Lumen frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-05-19T22:59:52Z",
+            "owner": "dingo",
+            "repo": "api",
+            "stars": 9365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook SDK",
+          "description": "Facebook SDK for Laravel and Lumen",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-01-19T22:12:30Z",
+            "owner": "SammyK",
+            "repo": "LaravelFacebookSdk",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen Passport",
+          "description": "Making Laravel Passport work with Lumen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-02T06:17:20Z",
+            "owner": "dusterio",
+            "repo": "lumen-passport",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REST API With Lumen",
+          "description": "A RESTful API boilerplate for Lumen micro-framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-09T15:08:40Z",
+            "owner": "hasib32",
+            "repo": "rest-api-with-lumen",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen Generators",
+          "description": "A collection of generators for Lumen and Laravel 5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-11-14T11:17:28Z",
+            "owner": "webNeat",
+            "repo": "lumen-generators",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen Vendor Publish",
+          "description": "Vendor publish command for Lumen framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-09-11T15:44:01Z",
+            "owner": "laravelista",
+            "repo": "lumen-vendor-publish",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jwt Artisan",
+          "description": "JWT auth for Laravel and Lumen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-19T16:21:23Z",
+            "owner": "generationtux",
+            "repo": "jwt-artisan",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Larasupport",
+          "description": "Adds Laravel Packages Support to Lumen and Other Helpers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-12-04T19:17:29Z",
+            "owner": "irazasyed",
+            "repo": "larasupport",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen Tinker",
+          "description": "An interactive shell to Lumen framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-06-04T09:14:33Z",
+            "owner": "vluzrmos",
+            "repo": "lumen-tinker",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alternative Lumen Cors",
+          "description": "CORS Middleware for Lumen micro-framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-04-09T13:01:23Z",
+            "owner": "palanik",
+            "repo": "lumen-cors",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cors Illuminate",
+          "description": "CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-12-30T19:38:29Z",
+            "owner": "neomerx",
+            "repo": "cors-illuminate",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen Cors",
+          "description": "A simple lumen CORS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-07-27T22:26:38Z",
+            "owner": "vluzrmos",
+            "repo": "lumen-cors",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen 5.2 HTTP Basic Auth Guard",
+          "description": "Brings back basic authentication for Lumen 5.2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-04-24T13:51:29Z",
+            "owner": "arubacao",
+            "repo": "http-basic-auth-guard",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen File Manager",
+          "description": "File manager module for the Lumen PHP framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-03-16T09:23:07Z",
+            "owner": "digiaonline",
+            "repo": "lumen-file-manager",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen Maintenance Mode",
+          "description": "Define Lumen Application Maintenance Mode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-07-11T13:16:52Z",
+            "owner": "rdehnhardt",
+            "repo": "lumen-maintenance-mode",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen Make",
+          "description": "Ports most of the make commands from Laravel to Lumen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-03-23T20:20:15Z",
+            "owner": "michaelbonds",
+            "repo": "lumen-make",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Understand Lumen",
+          "description": "Laravel Lumen service provider for Understand.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-03-07T08:23:41Z",
+            "owner": "understand",
+            "repo": "understand-lumen",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Badge Poser",
+          "description": "Lumen Badge Generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-07T17:58:54Z",
+            "owner": "vluzrmos",
+            "repo": "laravel-badge-poser",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phpspec Lumen",
+          "description": "Test your Lumen app with phpspec",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-02-10T15:39:33Z",
+            "owner": "pmartelletti",
+            "repo": "phpspec-lumen",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Packages and Middleware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lumen Microservices Skeleton",
+          "description": "Skeleton structure for Microservices with Docker and Lumen",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-09-12T21:07:47Z",
+            "owner": "FabrizioCafolla",
+            "repo": "lumen-microservice",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email Microservice",
+          "description": "Microservice for sending emails with Lumen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-09-17T16:24:31Z",
+            "owner": "rlacerda83",
+            "repo": "lumen-email-microservice",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slack Invitator",
+          "description": "A Slack Invitator made with Lumen Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-12-03T18:07:16Z",
+            "owner": "vluzrmos",
+            "repo": "lumen-slackin",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lissandra",
+          "description": "API for Laracasts Feed built with Lumen.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-07-17T11:23:01Z",
+            "owner": "laravelista",
+            "repo": "Lissandra",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen Solder",
+          "description": "An implementation of Solder in Laravel's Lumen Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2015-08-21T14:27:41Z",
+            "owner": "TechnicPack",
+            "repo": "LumenSolder",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Made With Lumen"
+    },
+    {
+      "description": "Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This work (Awesome Lumen) is free of known copyright restrictions.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:53.598Z",
+    "original_repository": "unicodeveloper/awesome-lumen",
+    "original_repository_sha": "57a97d14a97bde105c10276aa6628592e818b707",
+    "enhanced_repository": "enhansome/enhansome-lumen",
+    "enhanced_repository_description": null,
+    "title": "Awesome lumen with stars"
+  }
+}
