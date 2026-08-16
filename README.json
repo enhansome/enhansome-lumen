@@ -19,7 +19,7 @@
             "last_commit": "2022-05-19T22:59:52Z",
             "owner": "dingo",
             "repo": "api",
-            "stars": 9364
+            "stars": 9365
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2021-01-19T22:12:30Z",
             "owner": "SammyK",
             "repo": "LaravelFacebookSdk",
-            "stars": 689
+            "stars": 688
           }
         },
         {
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:30:08.704Z",
+    "last_updated": "2026-08-16T15:31:12.451Z",
     "original_repository": "unicodeveloper/awesome-lumen",
     "original_repository_sha": "57a97d14a97bde105c10276aa6628592e818b707",
     "enhanced_repository": "enhansome/enhansome-lumen",
