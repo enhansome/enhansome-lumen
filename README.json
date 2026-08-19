@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18673522,
             "language": "PHP",
             "last_commit": "2022-05-19T22:59:52Z",
             "owner": "dingo",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20576582,
             "language": "PHP",
             "last_commit": "2021-01-19T22:12:30Z",
             "owner": "SammyK",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66318634,
             "language": "PHP",
             "last_commit": "2024-03-02T06:17:20Z",
             "owner": "dusterio",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82973144,
             "language": "PHP",
             "last_commit": "2018-02-09T15:08:40Z",
             "owner": "hasib32",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42818263,
             "language": "PHP",
             "last_commit": "2021-11-14T11:17:28Z",
             "owner": "webNeat",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37884874,
             "language": "PHP",
             "last_commit": "2021-09-11T15:44:01Z",
             "owner": "laravelista",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43390837,
             "language": "PHP",
             "last_commit": "2026-01-19T16:21:23Z",
             "owner": "generationtux",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36195272,
             "language": "PHP",
             "last_commit": "2022-12-04T19:17:29Z",
             "owner": "irazasyed",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36338064,
             "language": "PHP",
             "last_commit": "2019-06-04T09:14:33Z",
             "owner": "vluzrmos",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34149465,
             "language": "PHP",
             "last_commit": "2018-04-09T13:01:23Z",
             "owner": "palanik",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40353450,
             "language": "PHP",
             "last_commit": "2020-12-30T19:38:29Z",
             "owner": "neomerx",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35399055,
             "language": "PHP",
             "last_commit": "2022-07-27T22:26:38Z",
             "owner": "vluzrmos",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54335506,
             "language": "PHP",
             "last_commit": "2019-04-24T13:51:29Z",
             "owner": "arubacao",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38572466,
             "language": "PHP",
             "last_commit": "2018-03-16T09:23:07Z",
             "owner": "digiaonline",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38821310,
             "language": "PHP",
             "last_commit": "2022-07-11T13:16:52Z",
             "owner": "rdehnhardt",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50065720,
             "language": "PHP",
             "last_commit": "2016-03-23T20:20:15Z",
             "owner": "michaelbonds",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45245034,
             "language": "PHP",
             "last_commit": "2018-03-07T08:23:41Z",
             "owner": "understand",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35853719,
             "language": "PHP",
             "last_commit": "2018-02-07T17:58:54Z",
             "owner": "vluzrmos",
@@ -267,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51448705,
             "language": "PHP",
             "last_commit": "2016-02-10T15:39:33Z",
             "owner": "pmartelletti",
@@ -278,7 +292,7 @@
       "title": "Packages and Middleware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 142325864,
             "language": "HTML",
             "last_commit": "2022-09-12T21:07:47Z",
             "owner": "FabrizioCafolla",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40798726,
             "language": "PHP",
             "last_commit": "2015-09-17T16:24:31Z",
             "owner": "rlacerda83",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35376036,
             "language": "PHP",
             "last_commit": "2016-12-03T18:07:16Z",
             "owner": "vluzrmos",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33997920,
             "language": "PHP",
             "last_commit": "2017-07-17T11:23:01Z",
             "owner": "laravelista",
@@ -343,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40092951,
             "language": "PHP",
             "last_commit": "2015-08-21T14:27:41Z",
             "owner": "TechnicPack",
@@ -352,21 +371,12 @@
         }
       ],
       "title": "Made With Lumen"
-    },
-    {
-      "description": "Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "This work (Awesome Lumen) is free of known copyright restrictions.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:40:12.864Z",
+    "last_updated": "2026-08-19T12:37:20.045Z",
     "original_repository": "unicodeveloper/awesome-lumen",
+    "original_repository_id": 34606250,
     "original_repository_sha": "57a97d14a97bde105c10276aa6628592e818b707",
     "enhanced_repository": "enhansome/enhansome-lumen",
     "enhanced_repository_description": null,
