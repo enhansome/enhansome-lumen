@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "GitHub Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 33904351,
+            "language": "PHP",
+            "last_commit": "2024-04-09T14:03:47Z",
+            "owner": "laravel",
+            "repo": "lumen",
+            "stars": 7570
+          }
+        }
+      ],
+      "title": "Essentials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lumen API demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44219096,
+            "language": "PHP",
+            "last_commit": "2022-09-03T03:51:48Z",
+            "owner": "liyu001989",
+            "repo": "lumen-api-demo",
+            "stars": 840
+          }
+        }
+      ],
+      "title": "Demos"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Dingo API",
           "description": "A RESTful API package for the Laravel and Lumen frameworks.",
           "children": [],
@@ -374,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:31:10.247Z",
+    "last_updated": "2026-08-24T14:27:04.626Z",
     "original_repository": "unicodeveloper/awesome-lumen",
     "original_repository_id": 34606250,
     "original_repository_sha": "57a97d14a97bde105c10276aa6628592e818b707",

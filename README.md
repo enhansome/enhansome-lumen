@@ -2,7 +2,7 @@
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,184 | 🐛 106 | 📅 2026-08-21 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 813 | 🐛 3 | 📅 2022-01-29.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 813 | 🐛 3 | 📅 2022-01-29.*
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
@@ -20,9 +20,9 @@
 
 ## Essentials
 
+* [GitHub Repository](https://github.com/laravel/lumen) ⚠️ Archived
 * [Lumen Homepage](https://lumen.laravel.com/)
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
-* [GitHub Repository](https://github.com/laravel/lumen) ⚠️ Archived
 
 ## Demos
 
@@ -117,4 +117,4 @@ This work (Awesome Lumen) is free of known copyright restrictions.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
