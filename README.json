@@ -15,7 +15,7 @@
             "last_commit": "2024-04-09T14:03:47Z",
             "owner": "laravel",
             "repo": "lumen",
-            "stars": 7570
+            "stars": 7571
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2022-05-19T22:59:52Z",
             "owner": "dingo",
             "repo": "api",
-            "stars": 9367
+            "stars": 9368
           }
         },
         {
@@ -416,9 +416,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:25:12.767Z",
-    "original_repository": "unicodeveloper/awesome-lumen",
-    "original_repository_id": 34606250,
+    "last_updated": "2026-08-27T11:47:39.748Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 34606250,
+      "language": null,
+      "last_commit": "2021-04-20T12:32:41Z",
+      "owner": "unicodeveloper",
+      "repo": "awesome-lumen",
+      "stars": 329
+    },
     "original_repository_sha": "57a97d14a97bde105c10276aa6628592e818b707",
     "enhanced_repository": "enhansome/enhansome-lumen",
     "enhanced_repository_description": null,
