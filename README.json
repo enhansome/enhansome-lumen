@@ -16,7 +16,8 @@
             "owner": "laravel",
             "repo": "lumen",
             "stars": 7571
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         }
       ],
       "title": "Essentials"
@@ -37,7 +38,8 @@
             "owner": "liyu001989",
             "repo": "lumen-api-demo",
             "stars": 841
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         }
       ],
       "title": "Demos"
@@ -57,8 +59,9 @@
             "last_commit": "2022-05-19T22:59:52Z",
             "owner": "dingo",
             "repo": "api",
-            "stars": 9368
-          }
+            "stars": 9366
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "SammyK",
             "repo": "LaravelFacebookSdk",
             "stars": 688
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "dusterio",
             "repo": "lumen-passport",
             "stars": 650
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "hasib32",
             "repo": "rest-api-with-lumen",
             "stars": 483
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "webNeat",
             "repo": "lumen-generators",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "laravelista",
             "repo": "lumen-vendor-publish",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "generationtux",
             "repo": "jwt-artisan",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "irazasyed",
             "repo": "larasupport",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "vluzrmos",
             "repo": "lumen-tinker",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "palanik",
             "repo": "lumen-cors",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "neomerx",
             "repo": "cors-illuminate",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "vluzrmos",
             "repo": "lumen-cors",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "arubacao",
             "repo": "http-basic-auth-guard",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "digiaonline",
             "repo": "lumen-file-manager",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "rdehnhardt",
             "repo": "lumen-maintenance-mode",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "michaelbonds",
             "repo": "lumen-make",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "understand",
             "repo": "understand-lumen",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "vluzrmos",
             "repo": "laravel-badge-poser",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "pmartelletti",
             "repo": "phpspec-lumen",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         }
       ],
       "title": "Packages and Middleware"
@@ -349,7 +370,8 @@
             "owner": "FabrizioCafolla",
             "repo": "lumen-microservice",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "rlacerda83",
             "repo": "lumen-email-microservice",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "vluzrmos",
             "repo": "lumen-slackin",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "laravelista",
             "repo": "Lissandra",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         },
         {
           "node_type": "item",
@@ -409,14 +434,15 @@
             "owner": "TechnicPack",
             "repo": "LumenSolder",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:59:37.606Z"
         }
       ],
       "title": "Made With Lumen"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:21:47.456Z",
+    "last_updated": "2026-08-28T23:59:37.606Z",
     "original_repository_info": {
       "archived": false,
       "id": 34606250,
