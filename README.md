@@ -2,7 +2,7 @@
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,571 | 🐛 106 | 📅 2026-09-02 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 815 | 🐛 3 | 📅 2022-01-29.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,932 | 🐛 106 | 📅 2026-09-02 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 815 | 🐛 3 | 📅 2022-01-29.*
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
@@ -53,13 +53,13 @@
 
 ## Packages and Middleware
 
-* [Dingo API](https://github.com/dingo/api) ⭐ 9,369 | 🐛 189 | 🌐 PHP | 📅 2022-05-19 - A RESTful API package for the Laravel and Lumen frameworks.
+* [Dingo API](https://github.com/dingo/api) ⭐ 9,370 | 🐛 189 | 🌐 PHP | 📅 2022-05-19 - A RESTful API package for the Laravel and Lumen frameworks.
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) ⚠️ Archived - Facebook SDK for Laravel and Lumen
 * [Lumen Passport](https://github.com/dusterio/lumen-passport) ⭐ 650 | 🐛 9 | 🌐 PHP | 📅 2024-03-02 - Making Laravel Passport work with Lumen.
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) ⭐ 483 | 🐛 17 | 🌐 PHP | 📅 2018-02-09 - A RESTful API boilerplate for Lumen micro-framework.
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) ⭐ 349 | 🐛 37 | 🌐 PHP | 📅 2021-11-14 - A collection of generators for Lumen and Laravel 5.
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) ⚠️ Archived - Vendor publish command for Lumen framework.
-* [Jwt Artisan](https://github.com/generationtux/jwt-artisan) ⭐ 139 | 🐛 3 | 🌐 PHP | 📅 2026-01-19 - JWT auth for Laravel and Lumen
+* [Jwt Artisan](https://github.com/generationtux/jwt-artisan) ⭐ 138 | 🐛 3 | 🌐 PHP | 📅 2026-01-19 - JWT auth for Laravel and Lumen
 * [Larasupport](https://github.com/irazasyed/larasupport) ⭐ 127 | 🐛 1 | 🌐 PHP | 📅 2022-12-04 - Adds Laravel Packages Support to Lumen and Other Helpers.
 * [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) ⭐ 109 | 🐛 0 | 🌐 PHP | 📅 2019-06-04 - An interactive shell to Lumen framework
 * [Alternative Lumen Cors](https://github.com/palanik/lumen-cors) ⭐ 101 | 🐛 8 | 🌐 PHP | 📅 2018-04-09 - CORS Middleware for Lumen micro-framework
@@ -117,4 +117,4 @@ This work (Awesome Lumen) is free of known copyright restrictions.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
