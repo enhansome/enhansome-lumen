@@ -82,7 +82,7 @@
             "open_issues": 189,
             "owner": "dingo",
             "repo": "api",
-            "stars": 9375,
+            "stars": 9376,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:37.606Z"
@@ -643,7 +643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:01:32.255Z",
+    "last_updated": "2026-09-25T19:12:56.859Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: :books: Curated list of awesome resources: books, videos, articles about using Lumen (PHP Microframework by Laravel)",
