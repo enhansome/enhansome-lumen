@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "GitHub Repository",
-          "description": null,
+          "description": "laravel/lumen",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "Lumen API demo",
-          "description": null,
+          "description": "liyu001989/lumen-api-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -643,7 +643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:52:15.859Z",
+    "last_updated": "2026-10-03T04:54:02.727Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: :books: Curated list of awesome resources: books, videos, articles about using Lumen (PHP Microframework by Laravel)",
