@@ -2,7 +2,7 @@
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,935 | 🐛 105 | 📅 2026-09-02 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 815 | 🐛 3 | 📅 2022-01-29.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,416 | 🐛 105 | 📅 2026-09-02 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 815 | 🐛 3 | 📅 2022-01-29.*
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
@@ -26,7 +26,7 @@
 
 ## Demos
 
-* [Lumen API demo](https://github.com/liyu001989/lumen-api-demo) ⭐ 839 | 🐛 7 | 🌐 PHP | 📅 2022-09-03
+* [Lumen API demo](https://github.com/liyu001989/lumen-api-demo) ⭐ 838 | 🐛 7 | 🌐 PHP | 📅 2022-09-03
 
 ## Tutorials
 
@@ -53,11 +53,11 @@
 
 ## Packages and Middleware
 
-* [Dingo API](https://github.com/dingo/api) ⭐ 9,379 | 🐛 189 | 🌐 PHP | 📅 2022-05-19 - A RESTful API package for the Laravel and Lumen frameworks.
+* [Dingo API](https://github.com/dingo/api) ⭐ 9,378 | 🐛 189 | 🌐 PHP | 📅 2022-05-19 - A RESTful API package for the Laravel and Lumen frameworks.
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) ⚠️ Archived - Facebook SDK for Laravel and Lumen
 * [Lumen Passport](https://github.com/dusterio/lumen-passport) ⭐ 650 | 🐛 9 | 🌐 PHP | 📅 2024-03-02 - Making Laravel Passport work with Lumen.
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) ⭐ 483 | 🐛 17 | 🌐 PHP | 📅 2018-02-09 - A RESTful API boilerplate for Lumen micro-framework.
-* [Lumen Generators](https://github.com/webNeat/lumen-generators) ⭐ 348 | 🐛 37 | 🌐 PHP | 📅 2021-11-14 - A collection of generators for Lumen and Laravel 5.
+* [Lumen Generators](https://github.com/webNeat/lumen-generators) ⭐ 347 | 🐛 37 | 🌐 PHP | 📅 2021-11-14 - A collection of generators for Lumen and Laravel 5.
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) ⚠️ Archived - Vendor publish command for Lumen framework.
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) ⭐ 138 | 🐛 3 | 🌐 PHP | 📅 2026-01-19 - JWT auth for Laravel and Lumen
 * [Larasupport](https://github.com/irazasyed/larasupport) ⭐ 127 | 🐛 1 | 🌐 PHP | 📅 2022-12-04 - Adds Laravel Packages Support to Lumen and Other Helpers.
@@ -117,4 +117,4 @@ This work (Awesome Lumen) is free of known copyright restrictions.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
