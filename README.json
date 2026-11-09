@@ -82,7 +82,7 @@
             "open_issues": 189,
             "owner": "dingo",
             "repo": "api",
-            "stars": 9389,
+            "stars": 9390,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:37.606Z"
@@ -124,7 +124,7 @@
             "open_issues": 9,
             "owner": "dusterio",
             "repo": "lumen-passport",
-            "stars": 650,
+            "stars": 649,
             "topics": [
               "jwt",
               "lumen",
@@ -643,7 +643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:30:11.710Z",
+    "last_updated": "2026-11-09T23:44:48.271Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: :books: Curated list of awesome resources: books, videos, articles about using Lumen (PHP Microframework by Laravel)",
