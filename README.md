@@ -2,7 +2,7 @@
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,900 | 🐛 103 | 📅 2026-09-02 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 817 | 🐛 3 | 📅 2022-01-29.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,399 | 🐛 104 | 📅 2026-09-02 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 817 | 🐛 3 | 📅 2022-01-29.*
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
@@ -59,9 +59,9 @@
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) ⭐ 483 | 🐛 17 | 🌐 PHP | 📅 2018-02-09 - A RESTful API boilerplate for Lumen micro-framework.
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) ⭐ 347 | 🐛 37 | 🌐 PHP | 📅 2021-11-14 - A collection of generators for Lumen and Laravel 5.
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) ⚠️ Archived - Vendor publish command for Lumen framework.
-* [Jwt Artisan](https://github.com/generationtux/jwt-artisan) ⭐ 138 | 🐛 3 | 🌐 PHP | 📅 2026-01-19 - JWT auth for Laravel and Lumen
+* [Jwt Artisan](https://github.com/generationtux/jwt-artisan) ⭐ 137 | 🐛 3 | 🌐 PHP | 📅 2026-01-19 - JWT auth for Laravel and Lumen
 * [Larasupport](https://github.com/irazasyed/larasupport) ⭐ 127 | 🐛 1 | 🌐 PHP | 📅 2022-12-04 - Adds Laravel Packages Support to Lumen and Other Helpers.
-* [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) ⭐ 109 | 🐛 0 | 🌐 PHP | 📅 2019-06-04 - An interactive shell to Lumen framework
+* [Lumen Tinker](https://github.com/vluzrmos/lumen-tinker) ⭐ 108 | 🐛 0 | 🌐 PHP | 📅 2019-06-04 - An interactive shell to Lumen framework
 * [Alternative Lumen Cors](https://github.com/palanik/lumen-cors) ⭐ 101 | 🐛 8 | 🌐 PHP | 📅 2018-04-09 - CORS Middleware for Lumen micro-framework
 * [Cors Illuminate](https://github.com/neomerx/cors-illuminate) ⭐ 48 | 🐛 2 | 🌐 PHP | 📅 2020-12-30 - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen
 * [Lumen Cors](https://github.com/vluzrmos/lumen-cors) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2022-07-27 - A simple lumen CORS
@@ -117,4 +117,4 @@ This work (Awesome Lumen) is free of known copyright restrictions.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

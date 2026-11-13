@@ -233,7 +233,7 @@
             "open_issues": 3,
             "owner": "generationtux",
             "repo": "jwt-artisan",
-            "stars": 138,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:37.606Z"
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "vluzrmos",
             "repo": "lumen-tinker",
-            "stars": 109,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:37.606Z"
@@ -643,7 +643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:48:40.681Z",
+    "last_updated": "2026-11-13T21:22:45.275Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: :books: Curated list of awesome resources: books, videos, articles about using Lumen (PHP Microframework by Laravel)",
