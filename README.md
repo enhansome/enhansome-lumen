@@ -2,7 +2,7 @@
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,994 | 🐛 104 | 📅 2026-09-02 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 816 | 🐛 3 | 📅 2022-01-29.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,525 | 🐛 104 | 📅 2026-09-02 list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 816 | 🐛 3 | 📅 2022-01-29.*
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
@@ -53,7 +53,7 @@
 
 ## Packages and Middleware
 
-* [Dingo API](https://github.com/dingo/api) ⭐ 9,395 | 🐛 189 | 🌐 PHP | 📅 2022-05-19 - A RESTful API package for the Laravel and Lumen frameworks.
+* [Dingo API](https://github.com/dingo/api) ⭐ 9,391 | 🐛 189 | 🌐 PHP | 📅 2022-05-19 - A RESTful API package for the Laravel and Lumen frameworks.
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) ⚠️ Archived - Facebook SDK for Laravel and Lumen
 * [Lumen Passport](https://github.com/dusterio/lumen-passport) ⭐ 649 | 🐛 9 | 🌐 PHP | 📅 2024-03-02 - Making Laravel Passport work with Lumen.
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) ⭐ 483 | 🐛 17 | 🌐 PHP | 📅 2018-02-09 - A RESTful API boilerplate for Lumen micro-framework.
@@ -77,7 +77,7 @@
 
 * [Lumen Microservices Skeleton](https://github.com/FabrizioCafolla/microservice-lumen) ⚠️ Archived - Skeleton structure for Microservices with Docker and Lumen
 * [Email Microservice](https://github.com/rlacerda83/lumen-email-microservice) ⭐ 76 | 🐛 2 | 🌐 PHP | 📅 2015-09-17 - Microservice for sending emails with Lumen
-* [Slack Invitator](https://github.com/vluzrmos/lumen-slackin) ⭐ 55 | 🐛 2 | 🌐 PHP | 📅 2016-12-03 - A Slack Invitator made with Lumen Framework
+* [Slack Invitator](https://github.com/vluzrmos/lumen-slackin) ⭐ 54 | 🐛 2 | 🌐 PHP | 📅 2016-12-03 - A Slack Invitator made with Lumen Framework
 * [Lissandra](https://github.com/laravelista/Lissandra) ⚠️ Archived - API for Laracasts Feed built with Lumen.
 * [Lumen Solder](https://github.com/TechnicPack/LumenSolder) ⚠️ Archived - An implementation of Solder in Laravel's Lumen Framework.
 
@@ -117,4 +117,4 @@ This work (Awesome Lumen) is free of known copyright restrictions.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
